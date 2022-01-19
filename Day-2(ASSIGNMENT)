@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>DAY-2(forms)</title>
+</head>
+<body>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="firstname" placeholder="adhithya"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lastname" placeholder="M"><br><br>
+  <Input type="dob"  id="dateofbirth><br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
